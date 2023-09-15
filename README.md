@@ -1,6 +1,6 @@
-### Hi there I'm Yahia Ragab👋
+## Hi there I'm Yahia Ragab👋
 
-#### I am a Mechatronics recent graduate with experience and passion in full-stack web development
+### I am a Mechatronics recent graduate with experience and passion in full-stack web development
 
 <!--
 **yahiaragab99/yahiaragab99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning multiple backend frameworks in depth.
 - 👯 I’m looking for a new opportunity as a full stack web developer.
+
+You can find me on: 
 
