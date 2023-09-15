@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning multiple backend frameworks in depth.
 - 👯 I’m looking for a new opportunity as a full stack web developer.
 
-You can find me on: 
+### Languages and Tools: 
+[![HTML5 Logo](https://pngtree.com/freepng/html-file-document-icon_4175819.html)](https://codecademy.com)
+
 
