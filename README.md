@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning multiple backend frameworks in depth.
-- 👯 I’m looking for a new opportunity as a full stack web developer.
 
 ### Languages and Tools:
 
